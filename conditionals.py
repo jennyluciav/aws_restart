@@ -1,3 +1,4 @@
+print("Inicio de condicionales")
 userReply = input("¿Necesita enviar un paquete? (Escriba sí o no) ")
 
 if userReply == "si":
